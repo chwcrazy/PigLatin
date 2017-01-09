@@ -1,6 +1,6 @@
 Project
 ----------------------------------
-A Simple Pig Latin Translation Microservice
+A VERY Simple Pig Latin Translation Microservice
 
 
 Introduction
