@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     paragraph = "Hello World Allo"
-    return 'PigLation: ' + pigLatin(paragraph)
+    return 'PigLatin: ' + pigLatin(paragraph)
 
 def pigLatin(paragraph):
     ''' 
